@@ -1,4 +1,4 @@
-package Lekcja7_InstrukcjeWarunkowe;
+package Lekcja8_InstrukcjeWarunkowe;
 
 public class InstrukcjaIf {
     public static void main(String[] args) {

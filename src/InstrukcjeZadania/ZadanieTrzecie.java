@@ -2,10 +2,10 @@ package InstrukcjeZadania;
 
 public class ZadanieTrzecie {
     public static void main(String[] args) {
-        double liczba1 = 456.87;
-        double liczba2 = 56.09;
+        double liczba1 = 64.56;
+        double liczba2 = 87.56;
 
-        char znak = '/';
+        char znak = '+';
         double wynik = 0;
 
         switch (znak) {
@@ -25,6 +25,17 @@ public class ZadanieTrzecie {
                 System.out.println("działanie jest niepoprawne");
         }
         System.out.println("Wynik działania to: " + wynik);
+
+
+
+
+
+
+
+
+
+
+
 
 
         //Napisz bardzo prosty kalkulator. Niech potrafi dodawać, odejmować, mnożyć i dzielić. Co więcej,
