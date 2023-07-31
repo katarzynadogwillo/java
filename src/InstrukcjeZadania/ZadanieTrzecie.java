@@ -5,7 +5,7 @@ public class ZadanieTrzecie {
         double liczba1 = 64.56;
         double liczba2 = 87.56;
 
-        char znak = '+';
+        char znak = '/';
         double wynik = 0;
 
         switch (znak) {
