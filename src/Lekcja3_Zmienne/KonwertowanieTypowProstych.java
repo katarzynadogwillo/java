@@ -7,7 +7,7 @@ public class KonwertowanieTypowProstych {
         int i = 60;
         double d = 34;
 
-        System.out.println(i / d); // zostało przekonwertowane, wynik będzie w doublu - za mały bytów
+        System.out.println(i / d); // zostało przekonwertowane, wynik będzie w doublu - za mało bytów
 
         double d2 = i;
 //        int i2 = d; //i został skonwertowany na doubla, ale i2 nie może być skonwertowany na d
