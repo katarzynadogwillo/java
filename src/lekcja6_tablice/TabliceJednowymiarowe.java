@@ -1,4 +1,4 @@
-package Lekcja6_Tablice;
+package lekcja6_tablice;
 
 public class TabliceJednowymiarowe {
     public static void main(String[] args) {
